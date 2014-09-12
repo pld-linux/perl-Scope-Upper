@@ -60,7 +60,6 @@ rm -rf $RPM_BUILD_ROOT
 %dir %{perl_vendorarch}/auto/Scope
 %{perl_vendorarch}/Scope/*.pm
 %dir %{perl_vendorarch}/auto/Scope/Upper
-%{perl_vendorarch}/auto/Scope/Upper/*.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/Scope/Upper/*.so
 %{_mandir}/man3/*
 %{_examplesdir}/%{name}-%{version}
