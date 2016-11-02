@@ -9,7 +9,7 @@ Summary:	Scope::Upper - Act on upper scopes.
 #Summary(pl.UTF-8):	
 Name:		perl-Scope-Upper
 Version:	0.29
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
