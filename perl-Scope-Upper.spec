@@ -7,13 +7,13 @@
 Summary:	Scope::Upper - Act on upper scopes.
 #Summary(pl.UTF-8):	
 Name:		perl-Scope-Upper
-Version:	0.32
-Release:	4
+Version:	0.33
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Scope/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	1c461197aa0768df8cefb60d1a23b83e
+# Source0-md5:	7429e28c36297aba11d7655edc74385a
 URL:		http://search.cpan.org/dist/Scope-Upper/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
